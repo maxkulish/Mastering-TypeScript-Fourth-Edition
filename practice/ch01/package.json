@@ -1,0 +1,24 @@
+{
+  "name": "ch01",
+  "version": "1.0.0",
+  "description": "Some description",
+  "main": "hello_typescript.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/maxkulish/typescript"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Max Kulish",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.6.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
