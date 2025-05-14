@@ -33,5 +33,4 @@ withLiteral(1);
 withLiteral("two");
 withLiteral(2);
 withLiteral("three");
-withLiteral(3); // Error: Argument of type '3' is not assignable to parameter of type 'AllowedStringValues | AllowedNumericValues'.
-//# sourceMappingURL=functions.js.map
+withLiteral(3);
